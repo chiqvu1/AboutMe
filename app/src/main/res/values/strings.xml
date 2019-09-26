@@ -2,4 +2,19 @@
     <string name="app_name">About Me</string>
     <string name="name">Chi</string>
     <string name="yellow_star">yellow star</string>
+    <string name="bio">
+        Hi, my name is Chi.
+        \n\nI am currently a student at College of Southern Nevada.
+        \n\nI am an avid traveler, yoga enthusiastic, and aspiring programming wizard.
+        \n\nHere\'s a little bit more about me in the words of the amazing Janelle Monae:
+        \n\n\"Sometimes a mystery, sometimes I\'m free
+        \n\nDepending on my mood or my attitude
+        \n\nSometimes I wanna roll or stay at home
+        \n\nWalking contradiction, guess I\'m factual and fiction..."
+        \n\nAnd here\'s my life mantra by the three beautiful women of Destiny\'s Child:
+        \n\n\"I\'m a survivor, I\'m not gonna give up
+        \n\nI\'m not gonna stop, I\'m gonna work harder
+        \n\nI\'m a survivor, I\'m gonna make it
+        \n\nI will survive, keep on surviving...\"
+    </string>
 </resources>
